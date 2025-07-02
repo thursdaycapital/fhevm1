@@ -1,0 +1,4 @@
+echo "提交 1" >> README.md
+git add README.md
+git commit -m "第一次提交"
+git push origin main
